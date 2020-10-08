@@ -79,4 +79,12 @@ button {
 .new-task-date {
   margin-right: 20px;
   margin-left: 20px;
+  height: 30px;
+}
+
+.new-task {
+  border: 1px solid black;
+  border-radius: 3px;
+  height: 30px;
+  width: 40%;
 }
