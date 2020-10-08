@@ -5,6 +5,7 @@
 .main {
   width: 1200px;
   text-align: center;
+  margin: auto;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
@@ -31,4 +32,23 @@
 
 .item-paragraph {
   padding-right: 100px;
+}
+
+.buttons {
+  border: 2px solid grey;
+  padding: 20px 20px 20px 20px;
+}
+
+button {
+  background-color: goldenrod;
+  border: 1px solid black;
+  border-radius: 3px;
+  height: 30px;
+  width: 40%;
+  font-weight: bolder;
+}
+
+.new-task-date {
+  margin-right: 20px;
+  margin-left: 20px;
 }
