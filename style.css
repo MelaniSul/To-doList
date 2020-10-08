@@ -15,6 +15,12 @@ body {
 
 /* --- CALENDAR --- */
 
+.calendar-logo {
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
 .calendar {
   font-size: 25px;
 }
@@ -40,6 +46,22 @@ td {
 }
 
 /* --- TO-DO LIST --- */
+.logo {
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 30px;
+  animation: checkbox 2s infinite;
+}
+
+@keyframes checkbox {
+  from {
+    filter: invert(0%);
+  }
+  to {
+    filter: invert(100%);
+  }
+}
+
 h1 {
   text-align: center;
   padding-bottom: 20px;
