@@ -51,19 +51,19 @@ h1 {
 
 .item-1 {
   border: 1px solid grey;
-  padding: 20px 20px 20px 20px;
+  padding: 40px 40px 40px 40px;
   color: rgb(243, 147, 184);
   font-weight: bolder;
 }
 
 .item-2 {
   border: 1px solid grey;
-  padding: 20px 20px 20px 20px;
+  padding: 40px 40px 40px 40px;
 }
 
 .item-3 {
   border: 1px solid grey;
-  padding: 20px 20px 20px 20px;
+  padding: 40px 40px 40px 40px;
 }
 
 input:checked + label {
@@ -80,7 +80,7 @@ input:checked + label {
 
 .buttons {
   border: 1px solid grey;
-  padding: 20px 20px 20px 20px;
+  padding: 40px 40px 40px 40px;
 }
 
 button {
